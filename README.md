@@ -1,1 +1,1 @@
-# isabl-apps-resource-optimizer
+# Isabl Job Optimizer
